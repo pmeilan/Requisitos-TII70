@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?>
+<configuration:ProrToolExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0" xmlns:id="http://pror.org/presentation/id" xmlns:reqif="http://www.omg.org/spec/ReqIF/20110401/reqif.xsd">
+  <specViewConfigurations>
+    <specification href="REQ%20TII70%20L1backup.reqif#_yVIca1I1Ee6G9o5a06vMmA"/>
+    <columns label="ReqIF.ForeignID" width="64"/>
+    <columns label="ReqIF.ChapterName" width="40"/>
+    <columns label="ReqIF.Identifier" width="114"/>
+    <columns label="ReqIF.Name" width="186"/>
+    <columns label="ReqIF.Text" width="435"/>
+    <columns label="VerifiedBy" width="64"/>
+    <columns label="ReqType" width="64"/>
+    <leftHeaderColumn label="Lead Header Column" width="30"/>
+  </specViewConfigurations>
+  <generalConfiguration>
+    <labelConfiguration>
+      <defaultLabel>ReqIF.Identifier</defaultLabel>
+      <defaultLabel>ReqIF.Description</defaultLabel>
+      <defaultLabel>ReqIF.ForeignID</defaultLabel>
+      <defaultLabel>ReqIF.Name</defaultLabel>
+    </labelConfiguration>
+  </generalConfiguration>
+  <presentationConfigurations>
+    <presentationConfigurations xsi:type="id:IdConfiguration" prefix="REQ-" count="96">
+      <datatype xsi:type="reqif:DatatypeDefinitionString" href="REQ%20TII70%20L1backup.reqif#_yVIcVFI1Ee6G9o5a06vMmA"/>
+    </presentationConfigurations>
+    <presentationConfigurations xsi:type="id:IdConfiguration" prefix="LNK-" count="0">
+      <datatype xsi:type="reqif:DatatypeDefinitionString" href="REQ%20TII70%20L1backup.reqif#_yVIcWVI1Ee6G9o5a06vMmA"/>
+    </presentationConfigurations>
+  </presentationConfigurations>
+</configuration:ProrToolExtension>

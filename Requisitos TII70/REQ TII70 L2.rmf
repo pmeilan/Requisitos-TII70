@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ASCII"?>
+<configuration:ProrToolExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0" xmlns:id="http://pror.org/presentation/id" xmlns:reqif="http://www.omg.org/spec/ReqIF/20110401/reqif.xsd">
+  <specViewConfigurations>
+    <specification href="REQ%20TII70%20L2.reqif#_6mltmZq1Ee6CCOc-hGAbLw"/>
+    <columns label="ReqIF.Identifier" width="95"/>
+    <columns label="ReqIF.ForeignID" width="41"/>
+    <columns label="ReqIF.Name" width="174"/>
+    <columns label="ReqIF.Text" width="491"/>
+    <columns label="ReqIF.Description" width="89"/>
+    <columns label="ReqIF.LongName" width="89"/>
+    <columns label="ReqIF.Prefix" width="89"/>
+    <columns label="ReqStatus" width="89"/>
+    <columns label="ReqType" width="89"/>
+    <columns label="VerifiedBy" width="89"/>
+    <leftHeaderColumn label="Lead Header Column" width="30"/>
+  </specViewConfigurations>
+  <generalConfiguration>
+    <labelConfiguration>
+      <defaultLabel>ReqIF.Identifier</defaultLabel>
+      <defaultLabel>ReqIF.Description</defaultLabel>
+    </labelConfiguration>
+  </generalConfiguration>
+  <presentationConfigurations>
+    <presentationConfigurations xsi:type="id:IdConfiguration" prefix="REQ-" count="2">
+      <datatype xsi:type="reqif:DatatypeDefinitionString" href="REQ%20TII70%20L2.reqif#_6mltgpq1Ee6CCOc-hGAbLw"/>
+    </presentationConfigurations>
+    <presentationConfigurations xsi:type="id:IdConfiguration" prefix="LNK-" count="0">
+      <datatype xsi:type="reqif:DatatypeDefinitionString" href="REQ%20TII70%20L2.reqif#_6mlth5q1Ee6CCOc-hGAbLw"/>
+    </presentationConfigurations>
+  </presentationConfigurations>
+</configuration:ProrToolExtension>
