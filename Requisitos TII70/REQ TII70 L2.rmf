@@ -5,7 +5,7 @@
     <columns label="ReqIF.Identifier" width="95"/>
     <columns label="ReqIF.ForeignID" width="41"/>
     <columns label="ReqIF.Name" width="174"/>
-    <columns label="ReqIF.Text" width="491"/>
+    <columns label="ReqIF.Text" width="608"/>
     <columns label="ReqIF.Description" width="89"/>
     <columns label="ReqIF.LongName" width="89"/>
     <columns label="ReqIF.Prefix" width="89"/>

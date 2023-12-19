@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <REQ-IF xmlns="http://www.omg.org/spec/ReqIF/20110401/reqif.xsd" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0" xmlns:id="http://pror.org/presentation/id" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <THE-HEADER>
-    <REQ-IF-HEADER IDENTIFIER="rmf-82173237-b039-4da7-94ec-adb42649f7cb">
+    <REQ-IF-HEADER IDENTIFIER="rmf-7161d7f2-f321-42a6-8369-addfa33b5ddf">
       <COMMENT>Created by: fouri</COMMENT>
       <CREATION-TIME>2023-12-14T16:21:00.472-03:00</CREATION-TIME>
       <REQ-IF-TOOL-ID>ReqIF Studio (https://reqif.academy)</REQ-IF-TOOL-ID>
@@ -1931,7 +1931,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uZVuMJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:47:22.768-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uZVuMJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:47:49.648-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-029">
               <DEFINITION>
@@ -1976,7 +1976,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>La configuraciÃ³n deberÃ¡ soportar una presiÃ³n dinÃ¡mica de hasta 40kPa (TBC) en la fase de ascenso.</xhtml:div>
+                <xhtml:div>La configuración deberá soportar una presión dinámica de hasta 40kPa (TBC) en la fase de ascenso.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2008,7 +2008,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uZ_1kJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:01.240-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uZ_1kJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:49:33.062-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-030">
               <DEFINITION>
@@ -2053,7 +2053,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>&quot;La configuraciÃ³n deberÃ¡ tener un sistema que, luego del impacto, permita que el vehÃ­culo flote Ã­ntegramente y cuente con puntos de sujeciÃ³n para su remociÃ³n del agua.&quot;</xhtml:div>
+                <xhtml:div>&quot;La configuración deberá tener un sistema que, luego del impacto, permita que el vehí­culo flote íntegramente y cuente con puntos de sujeción para su remoción del agua.&quot;</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2085,7 +2085,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uap8255-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:01.309-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uap8255-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:49:54.962-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-031">
               <DEFINITION>
@@ -2130,7 +2130,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>Las especificaciÃ³nes tÃ©cnicas del propulsor son las impuestas por el programa TRAF</xhtml:div>
+                <xhtml:div>Las especificaciones técnicas del propulsor son las impuestas por el programa TRAF</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2162,7 +2162,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_ubWga55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:47:34.867-03:00">
+        <SPEC-OBJECT IDENTIFIER="_ubWga55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:50:17.319-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-032">
               <DEFINITION>
@@ -2207,7 +2207,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>Las operaciones de lanzamiento deberÃ¡n incluir una interrupciÃ³n autÃ³noma si existiera cualquier condiciÃ³n no tolerada.</xhtml:div>
+                <xhtml:div>Las operaciones de lanzamiento deberán incluir una interrupción autónoma si existiera cualquier condición no tolerada.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2239,7 +2239,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_ucIjgJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:01.463-03:00">
+        <SPEC-OBJECT IDENTIFIER="_ucIjgJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:50:45.740-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-033">
               <DEFINITION>
@@ -2284,7 +2284,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>&quot;DeberÃ¡ realizarse un anÃ¡lisis de confiabilidad del sistema que permita determinar los componentes a ser redundados, contemplando por otro lado, el costo en peso asociado, el impacto en la misiÃ³n y en la operaciÃ³n segura.&quot;</xhtml:div>
+                <xhtml:div>&quot;Deberá realizarse un análisis de confiabilidad del sistema que permita determinar los componentes a ser redundados, contemplando por otro lado, el costo en peso asociado, el impacto en la misión y en la operación segura.&quot;</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2316,7 +2316,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uc3jVp5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:47:46.142-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uc3jVp5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:51:20.179-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-034">
               <DEFINITION>
@@ -2361,7 +2361,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>&quot;Las operaciones de lanzamiento deberÃ¡n incluir la posibilidad de supervisiÃ³n e intervenciÃ³n en cualquier momento del proceso, a partir de cual el operador puede ejecutar las operaciones de recuperaciÃ³n en forma segura.&quot;</xhtml:div>
+                <xhtml:div>&quot;Las operaciones de lanzamiento deberán incluir la posibilidad de supervisión e intervención en cualquier momento del proceso, a partir de cual el operador puede ejecutar las operaciones de recuperación en forma segura.&quot;</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2393,7 +2393,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_udtQ0J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:01.629-03:00">
+        <SPEC-OBJECT IDENTIFIER="_udtQ0J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:53:14.159-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-035">
               <DEFINITION>
@@ -2438,7 +2438,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El vehÃ­culo deberÃ¡ ser lanzado en forma vertical.</xhtml:div>
+                <xhtml:div>El vehículo deberá ser lanzado en forma vertical.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2470,7 +2470,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uenP0J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:01.724-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uenP0J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:53:21.806-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-036">
               <DEFINITION>
@@ -2515,7 +2515,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>La trayectoria de ascenso tendrÃ¡ un tramo vertical hasta liberar la altitud de infraestructuras cercana.</xhtml:div>
+                <xhtml:div>La trayectoria de ascenso tendrá un tramo vertical hasta liberar la altitud de infraestructuras cercana.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2547,7 +2547,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_ufTMSZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:01.796-03:00">
+        <SPEC-OBJECT IDENTIFIER="_ufTMSZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:53:27.359-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-037">
               <DEFINITION>
@@ -2592,7 +2592,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>La trayectoria de ascenso nominal propulsado serÃ¡ de un giro gravitatorio.</xhtml:div>
+                <xhtml:div>La trayectoria de ascenso nominal propulsado será de un giro gravitatorio.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2624,7 +2624,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uf8sgJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:01.863-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uf8sgJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:53:38.716-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-038">
               <DEFINITION>
@@ -2669,7 +2669,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El control de actitud deberÃ¡ utilizar como actuador la vectorizaciÃ³n del empuje del motor principal durante su quema.</xhtml:div>
+                <xhtml:div>El control de actitud deberá utilizar como actuador la vectorización del empuje del motor principal durante su quema.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2701,7 +2701,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_ugrsVJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:01.941-03:00">
+        <SPEC-OBJECT IDENTIFIER="_ugrsVJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:53:53.729-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-039">
               <DEFINITION>
@@ -2746,7 +2746,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El control de actitud deberÃ¡ utilizar como actuador el sistema de control por reacciÃ³n luego de la quema del motor principal.</xhtml:div>
+                <xhtml:div>El control de actitud deberá utilizar como actuador el sistema de control por reacción luego de la quema del motor principal.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2778,7 +2778,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uhasJ55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:47:58.732-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uhasJ55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:54:14.882-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-040">
               <DEFINITION>
@@ -2823,7 +2823,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El motor principal deberÃ¡ tener un mÃ©todo para alinearse en forma automÃ¡tica antes del lanzamiento.</xhtml:div>
+                <xhtml:div>El motor principal deberá tener un método para alinearse en forma automática antes del lanzamiento.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2855,7 +2855,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uiGBkJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:48:13.506-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uiGBkJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:26:53.166-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-041">
               <DEFINITION>
@@ -2900,7 +2900,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema deberÃ¡ controlar la cinemÃ¡tica de rotaciÃ³n de vuelo al inicio de la reentrada.</xhtml:div>
+                <xhtml:div>El sistema deberá controlar la cinemática de rotación de vuelo al inicio de la reentrada.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3009,7 +3009,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_ujcscJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:02.231-03:00">
+        <SPEC-OBJECT IDENTIFIER="_ujcscJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:40:21.472-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-044">
               <DEFINITION>
@@ -3054,7 +3054,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema deberÃ¡ implementar un guiado de altitud.</xhtml:div>
+                <xhtml:div>El sistema deberá implementar un guiado de altitud.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3086,7 +3086,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_ukDwf55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:48:50.900-03:00">
+        <SPEC-OBJECT IDENTIFIER="_ukDwf55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:40:37.949-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-045">
               <DEFINITION>
@@ -3131,7 +3131,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema deberÃ¡ evaluar abordo la condiciÃ³n de terminaciÃ³n.</xhtml:div>
+                <xhtml:div>El sistema deberá evaluar abordo la condición de terminación.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3317,7 +3317,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_ul909p5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:02.495-03:00">
+        <SPEC-OBJECT IDENTIFIER="_ul909p5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:34:48.913-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-057">
               <DEFINITION>
@@ -3362,7 +3362,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El perfil de la cofia deberÃ¡ tener un concepto Ãºtil para la evaluaciÃ³n de las condiciones del TII-250.</xhtml:div>
+                <xhtml:div>El perfil de la cofia deberá tener un concepto útil para la evaluación de las condiciones del TII-250.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3394,7 +3394,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_ummuJJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:49:10.609-03:00">
+        <SPEC-OBJECT IDENTIFIER="_ummuJJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:43:26.482-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-058">
               <DEFINITION>
@@ -3439,7 +3439,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema deberÃ¡ proveer interfaces de comunicaciones para las cargas Ãºtiles.</xhtml:div>
+                <xhtml:div>El sistema deberá proveer interfaces de comunicaciones para las cargas útiles.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3471,7 +3471,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_unPnXJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:02.629-03:00">
+        <SPEC-OBJECT IDENTIFIER="_unPnXJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:34:03.349-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-060">
               <DEFINITION>
@@ -3516,7 +3516,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema deberÃ¡ contar con la capacidad de determinar la posiciÃ³n el vehÃ­culo una vez culminado el vuelo.</xhtml:div>
+                <xhtml:div>El sistema deberá contar con la capacidad de determinar la posición el vehí­culo una vez culminado el vuelo.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3548,7 +3548,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_un4gjZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:02.696-03:00">
+        <SPEC-OBJECT IDENTIFIER="_un4gjZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:33:45.022-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-063">
               <DEFINITION>
@@ -3593,7 +3593,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El tiempo de quema en vuelo deberÃ¡ ser de al menos 2 minutos (TBD).</xhtml:div>
+                <xhtml:div>El tiempo de quema en vuelo deberá ser de al menos 2 minutos (TBD).</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3625,7 +3625,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uohZwJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:49:28.195-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uohZwJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:33:37.631-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-065">
               <DEFINITION>
@@ -3670,7 +3670,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El segmento de tierrra deberÃ¡ proveer de energia elÃ©ctrica al segmento de vuelo</xhtml:div>
+                <xhtml:div>El segmento de tierrra deberá proveer de energia eléctrica al segmento de vuelo</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3702,7 +3702,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_upJr355-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:02.829-03:00">
+        <SPEC-OBJECT IDENTIFIER="_upJr355-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:33:24.466-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-068">
               <DEFINITION>
@@ -3747,7 +3747,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>&quot;El sistema deberÃ¡ implementar la capacidad de comunicaciÃ³n mediante radio enlace en banda S, implementando un canal para datos crÃ­ticos y un canal general para datos de telemetrÃ­a.&quot;</xhtml:div>
+                <xhtml:div>&quot;El sistema deberá implementar la capacidad de comunicación mediante radio enlace en banda S, implementando un canal para datos críticos y un canal general para datos de telemetría.&quot;</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3856,7 +3856,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uqcFQ55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:49:40.102-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uqcFQ55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:43:08.698-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-074">
               <DEFINITION>
@@ -3901,7 +3901,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema deberÃ¡ tener la capacidad de generar servicio de telemetrÃ­a a la carga util.</xhtml:div>
+                <xhtml:div>El sistema deberá tener la capacidad de generar servicio de telemetría a la carga util.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4010,7 +4010,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_ursCep5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:49:53.661-03:00">
+        <SPEC-OBJECT IDENTIFIER="_ursCep5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:40:58.241-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-076">
               <DEFINITION>
@@ -4055,7 +4055,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema deberÃ¡ aplicar la MIL-STD-461 para garantizar que las emisiones radiadas o conducidas de todos los equipos electrÃ³nicos de abordo no interfieran afectando su normal funcionamiento.</xhtml:div>
+                <xhtml:div>El sistema deberá aplicar la MIL-STD-461 para garantizar que las emisiones radiadas o conducidas de todos los equipos electrónicos de abordo no interfieran afectando su normal funcionamiento.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4087,7 +4087,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_usUUmZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:03.161-03:00">
+        <SPEC-OBJECT IDENTIFIER="_usUUmZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:41:44.852-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-077">
               <DEFINITION>
@@ -4132,7 +4132,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>Los sistemas de almacenamiento y  transporte del vehÃ­culo deberÃ¡n diseÃ±arse para asegurar la integridad del mismo con el registro de variables ambientales.</xhtml:div>
+                <xhtml:div>Los sistemas de almacenamiento y transporte del vehículo deberán diseñarse para asegurar la integridad del mismo con el registro de variables ambientales.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4164,7 +4164,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_us903p5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:03.229-03:00">
+        <SPEC-OBJECT IDENTIFIER="_us903p5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:42:01.273-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-078">
               <DEFINITION>
@@ -4209,7 +4209,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sitio de almacenaje y operaciones finales sobre el segmento de vuelo en Capetina deberÃ¡ realizarse en un Hangar de CampaÃ±a a ser construido.</xhtml:div>
+                <xhtml:div>El sitio de almacenaje y operaciones finales sobre el segmento de vuelo en Capetina deberá realizarse en un Hangar de Campaña a ser construido.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4241,7 +4241,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_utmG855-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:03.295-03:00">
+        <SPEC-OBJECT IDENTIFIER="_utmG855-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:42:50.139-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-079">
               <DEFINITION>
@@ -4286,7 +4286,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El Hangar de CampaÃ±a (Capetina) deberÃ¡ tener un sistema que permita extraer el cohete de su contenedor de transporte.</xhtml:div>
+                <xhtml:div>El Hangar de Campaña (Capetina) deberá tener un sistema que permita extraer el cohete de su contenedor de transporte.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4318,7 +4318,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uuPAI55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:53:25.490-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uuPAI55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:42:20.917-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-080">
               <DEFINITION>
@@ -4363,7 +4363,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El Hangar de CampaÃ±a (Capetina) deberÃ¡ contener un sistema para determinar las propiedades de masa finales del vehÃ­culo.</xhtml:div>
+                <xhtml:div>El Hangar de Campaña (Capetina) deberá contener un sistema para determinar las propiedades de masa finales del vehículo.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4395,7 +4395,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uu2EIp5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:03.426-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uu2EIp5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:35:15.807-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-081">
               <DEFINITION>
@@ -4440,7 +4440,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El Hangar de CampaÃ±a (Capetina) deberÃ¡ tener un sistema que permita instalar el cohete en el sistema de verticalizaciÃ³n.</xhtml:div>
+                <xhtml:div>El Hangar de Campaña (Capetina) deberá tener un sistema que permita instalar el cohete en el sistema de verticalización.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4549,7 +4549,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uwH2gJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:53:46.320-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uwH2gJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:35:35.412-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-083">
               <DEFINITION>
@@ -4594,7 +4594,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El vehÃ­culo estarÃ¡ retenido hasta que se verifÃ­que un conjunto de condiciones necesarias para liberarlo con bajo riesgo.</xhtml:div>
+                <xhtml:div>El vehí­culo estará retenido hasta que se verifíque un conjunto de condiciones necesarias para liberarlo con bajo riesgo.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4780,7 +4780,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uyCiFJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:03.761-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uyCiFJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:35:47.568-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-086">
               <DEFINITION>
@@ -4825,7 +4825,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El eje axial del motor deberÃ¡ poder ser medido en relaciÃ³n con los apoyos del PAD.</xhtml:div>
+                <xhtml:div>El eje axial del motor deberá poder ser medido en relación con los apoyos del PAD.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4857,7 +4857,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uyrbUZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:03.828-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uyrbUZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:35:55.589-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-087">
               <DEFINITION>
@@ -4902,7 +4902,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>Los propelentes deberÃ¡n ser cargados y descargados de manera remota a travez del banco de carga de propelentes (BCP) en condiciones nominales y ante contingencias.</xhtml:div>
+                <xhtml:div>Los propelentes deberán ser cargados y descargados de manera remota a travez del banco de carga de propelentes (BCP) en condiciones nominales y ante contingencias.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -4934,7 +4934,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uzU7gp5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:03.896-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uzU7gp5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:36:13.617-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-088">
               <DEFINITION>
@@ -4979,7 +4979,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>Los umbilicales elÃ©ctricos deberÃ¡n tener conectores de desconexiÃ³n automÃ¡tica al momento del despegue.</xhtml:div>
+                <xhtml:div>Los umbilicales eláctricos deberÃ¡n tener conectores de desconexión automática al momento del despegue.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -5088,7 +5088,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_u0mG0J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:04.028-03:00">
+        <SPEC-OBJECT IDENTIFIER="_u0mG0J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:37:17.586-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-090">
               <DEFINITION>
@@ -5133,7 +5133,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>&quot;Cada vehÃ­culo de vuelo deberÃ¡ ser ensayado con carga/descarga de lÃ­quidos y gases en el PAD, con presurizaciÃ³n de tanques principales.&quot;</xhtml:div>
+                <xhtml:div>&quot;Cada vehículo de vuelo deberá ser ensayado con carga/descarga de líquidos y gases en el PAD, con presurización de tanques principales.&quot;</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -5165,7 +5165,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_u1PABZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:54:28.583-03:00">
+        <SPEC-OBJECT IDENTIFIER="_u1PABZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:36:46.179-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-091">
               <DEFINITION>
@@ -5210,7 +5210,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>Cada vehÃ­culo de vuelo deberÃ¡ poder ensayar el mÃ©todo de alineaciÃ³n del TVC del propulsor con tuberÃ­as presurizadas.</xhtml:div>
+                <xhtml:div>Cada vehÃ­culo de vuelo deberá poder ensayar el método de alineación del TVC del propulsor con tuberías presurizadas.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -5242,7 +5242,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_u1_N9Z5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:04.175-03:00">
+        <SPEC-OBJECT IDENTIFIER="_u1_N9Z5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:31:55.844-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-092">
               <DEFINITION>
@@ -5287,7 +5287,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>&quot;IngenierÃ­a de Operaciones deberÃ¡ desarrollar el centro de operaciones de lanzamiento, la documentaciÃ³n, la formacion de los rrhh y el aseguramiento de las operaciones para al menos los escenarios alistamiento, vuelo, post vuelo y contingencia.&quot;</xhtml:div>
+                <xhtml:div>&quot;Ingeniería de Operaciones deberá desarrollar el centro de operaciones de lanzamiento, la documentación, la formacion de los rrhh y el aseguramiento de las operaciones para al menos los escenarios alistamiento, vuelo, post vuelo y contingencia.&quot;</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -5319,7 +5319,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_u2wC8J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:54:40.204-03:00">
+        <SPEC-OBJECT IDENTIFIER="_u2wC8J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:32:20.044-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-093">
               <DEFINITION>
@@ -5364,7 +5364,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>IngenierÃ­a de Operaciones deberÃ¡ generar el concepto de operaciÃ³n de la misiÃ³n TII-70.</xhtml:div>
+                <xhtml:div>Ingeniería de Operaciones deberá generar el concepto de operación de la misión TII-70.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -5396,7 +5396,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_u3ZjNJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:54:51.119-03:00">
+        <SPEC-OBJECT IDENTIFIER="_u3ZjNJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:37:54.736-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-094">
               <DEFINITION>
@@ -5441,7 +5441,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>&quot;El centro de operaciones de lanzamiento deberÃ¡ generar comandos y recolectar la telemetrÃ­a, centralizando, estandarizando y vizualizando toda la informaciÃ³n de los diferentes elementos que intervienen en las distintas etapas de la misiÃ³n.&quot;</xhtml:div>
+                <xhtml:div>&quot;El centro de operaciones de lanzamiento deberá generar comandos y recolectar la telemetría, centralizando, estandarizando y vizualizando toda la información de los diferentes elementos que intervienen en las distintas etapas de la misión.&quot;</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -6012,7 +6012,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_u9wp5J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:55:42.972-03:00">
+        <SPEC-OBJECT IDENTIFIER="_u9wp5J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:29:51.975-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-099">
               <DEFINITION>
@@ -6057,7 +6057,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema se interÃ©s deberÃ¡ montarse sobre un carretÃ³n estÃ¡ndar.</xhtml:div>
+                <xhtml:div>El sistema se interés deberá montarse sobre un carretón estándar.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -6089,7 +6089,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_u-kiMJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:05.074-03:00">
+        <SPEC-OBJECT IDENTIFIER="_u-kiMJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:30:07.294-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-100">
               <DEFINITION>
@@ -6134,7 +6134,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema de interÃ©s deberÃ¡ contar con su GSE (equipo de soporte de tierra) con la capacidad de llevar adelante los ensayos de rendimiento (CPT)</xhtml:div>
+                <xhtml:div>El sistema de interés deberá contar con su GSE (equipo de soporte de tierra) con la capacidad de llevar adelante los ensayos de rendimiento (CPT)</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -6166,7 +6166,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_u_ZBl55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:05.161-03:00">
+        <SPEC-OBJECT IDENTIFIER="_u_ZBl55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:28:26.144-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-101">
               <DEFINITION>
@@ -6211,7 +6211,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El hangar deberÃ¡ contar con una sala limpia para el almacenaje del SOI clase â€œXXXXâ€�</xhtml:div>
+                <xhtml:div>El hangar deberá contar con una sala limpia para el almacenaje del SOI clase TBD</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -6243,7 +6243,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_vANg9p5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:05.247-03:00">
+        <SPEC-OBJECT IDENTIFIER="_vANg9p5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:30:20.323-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-102">
               <DEFINITION>
@@ -6288,7 +6288,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema de interÃ©s deberÃ¡ contar con un sistema de transporte apto para el camino existente entre Pipinas y la base de lanzamiento</xhtml:div>
+                <xhtml:div>El sistema de interés deberá contar con un sistema de transporte apto para el camino existente entre Pipinas y la base de lanzamiento</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -6320,7 +6320,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_vBGRwJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:05.339-03:00">
+        <SPEC-OBJECT IDENTIFIER="_vBGRwJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:30:37.327-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-103">
               <DEFINITION>
@@ -6365,7 +6365,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema de interÃ©s deberÃ¡ contar con la instrumentaciÃ³n necesaria para evaluar la salud del sistema durante el transporte del SOI</xhtml:div>
+                <xhtml:div>El sistema de interés deberá contar con la instrumentación necesaria para evaluar la salud del sistema durante el transporte del SOI</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -6397,7 +6397,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_vB2fsJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:05.419-03:00">
+        <SPEC-OBJECT IDENTIFIER="_vB2fsJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:30:47.992-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-104">
               <DEFINITION>
@@ -6442,7 +6442,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>Los ensayos de CPT (Comprehensive Performance Test) a realizarse sobre el SOI, deberÃ¡n realizarse desde los umbilicales. </xhtml:div>
+                <xhtml:div>Los ensayos de CPT (Comprehensive Performance Test) a realizarse sobre el SOI, deberán realizarse desde los umbilicales.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -6474,7 +6474,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_vCq_FJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:55:55.715-03:00">
+        <SPEC-OBJECT IDENTIFIER="_vCq_FJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:31:21.565-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-105">
               <DEFINITION>
@@ -6519,7 +6519,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El Hangar de CampaÃ±a (Capetina) deberÃ¡ tener vÃ­as de integraciÃ³n donde se pueda disponer el cohete de modo que permita realizar tareas de integraciÃ³n de la carga Ãºtil.</xhtml:div>
+                <xhtml:div>El Hangar de Campaña (Capetina) deberá tener ví­as de integración donde se pueda disponer el cohete de modo que permita realizar tareas de integración de la carga útil.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -6551,7 +6551,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_vDal9p5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:56:12.172-03:00">
+        <SPEC-OBJECT IDENTIFIER="_vDal9p5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:44:18.040-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-106">
               <DEFINITION>
@@ -6596,7 +6596,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El Hangar de CampaÃ±a (Capetina) deberÃ¡ tener vÃ­as de integraciÃ³n donde se pueda disponer el cohete de modo que permita realizar tareas de integraciÃ³n del sistema de interÃ©s</xhtml:div>
+                <xhtml:div>El Hangar de Campaña (Capetina) deberá tener ví­as de integración donde se pueda disponer el cohete de modo que permita realizar tareas de integración del sistema de interés</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -7629,7 +7629,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_vOf0nZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T12:56:48.689-03:00">
+        <SPEC-OBJECT IDENTIFIER="_vOf0nZ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T14:27:35.895-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-120">
               <DEFINITION>
@@ -7674,7 +7674,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El Sistema deberÃ¡ tener la capacidad de operar de manera autÃ³noma una vez dado inicio el lanzamiento, incluyendo la operaciÃ³n de liberaciÃ³n</xhtml:div>
+                <xhtml:div>El Sistema deberá tener la capacidad de operar de manera autónoma una vez dado inicio el lanzamiento, incluyendo la operación de liberación</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
