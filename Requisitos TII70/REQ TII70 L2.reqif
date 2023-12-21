@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <REQ-IF xmlns="http://www.omg.org/spec/ReqIF/20110401/reqif.xsd" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0" xmlns:id="http://pror.org/presentation/id" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <THE-HEADER>
-    <REQ-IF-HEADER IDENTIFIER="rmf-d20023e8-1b30-457d-923c-384cf3f4bbd8">
+    <REQ-IF-HEADER IDENTIFIER="rmf-0856cfae-b8cb-4b2b-b84c-861bc887f7df">
       <COMMENT>Created by: fouri</COMMENT>
       <CREATION-TIME>2023-12-14T16:21:00.472-03:00</CREATION-TIME>
       <REQ-IF-TOOL-ID>ReqIF Studio (https://reqif.academy)</REQ-IF-TOOL-ID>
@@ -1546,7 +1546,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uWIpMJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:28:17.999-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uWIpMJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-20T07:19:43.331-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-024">
               <DEFINITION>
@@ -1591,7 +1591,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El diámetro del vehí­culo será de 70cm (TBC).</xhtml:div>
+                <xhtml:div>El diámetro del vehículo será de 70cm (TBC).</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -1854,7 +1854,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uYtcGJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T13:30:14.559-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uYtcGJ5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-20T07:19:33.978-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-028">
               <DEFINITION>
@@ -1899,7 +1899,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>&quot;El vehí­culo debe contar con un sistema automático que releve las variables más importantes para enviar al segmento de Soporte en Tierra, para la habilitación del lanzamiento.&quot;</xhtml:div>
+                <xhtml:div>&quot;El vehículo debe contar con un sistema automático que releve las variables más importantes para enviar al segmento de Soporte en Tierra, para la habilitación del lanzamiento.&quot;</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -2932,7 +2932,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_uiwI4J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:02.158-03:00">
+        <SPEC-OBJECT IDENTIFIER="_uiwI4J5-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-20T07:19:18.297-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-043">
               <DEFINITION>
@@ -2977,7 +2977,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema deberÃ¡ implementar un guiado de acimut.</xhtml:div>
+                <xhtml:div>El sistema deberá implementar un guiado de acimut.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>
@@ -3779,7 +3779,7 @@
             <SPEC-OBJECT-TYPE-REF>_uJkM0J5-Ee6XDL50f7eZ_w</SPEC-OBJECT-TYPE-REF>
           </TYPE>
         </SPEC-OBJECT>
-        <SPEC-OBJECT IDENTIFIER="_upylD55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-19T11:56:02.896-03:00">
+        <SPEC-OBJECT IDENTIFIER="_upylD55-Ee6XDL50f7eZ_w" LAST-CHANGE="2023-12-20T07:19:06.907-03:00">
           <VALUES>
             <ATTRIBUTE-VALUE-STRING THE-VALUE="L2-SIS-069">
               <DEFINITION>
@@ -3824,7 +3824,7 @@
                 <ATTRIBUTE-DEFINITION-XHTML-REF>_uJkM2J5-Ee6XDL50f7eZ_w</ATTRIBUTE-DEFINITION-XHTML-REF>
               </DEFINITION>
               <THE-VALUE>
-                <xhtml:div>El sistema deberÃ¡ tener la capacidad de transmitir el video en tiempo real de todos los eventos del lanzamiento.</xhtml:div>
+                <xhtml:div>El sistema deberá tener la capacidad de transmitir el video en tiempo real de todos los eventos del lanzamiento.</xhtml:div>
               </THE-VALUE>
             </ATTRIBUTE-VALUE-XHTML>
             <ATTRIBUTE-VALUE-ENUMERATION>

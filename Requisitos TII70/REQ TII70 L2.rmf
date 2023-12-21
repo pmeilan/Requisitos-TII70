@@ -2,16 +2,17 @@
 <configuration:ProrToolExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0" xmlns:id="http://pror.org/presentation/id" xmlns:reqif="http://www.omg.org/spec/ReqIF/20110401/reqif.xsd">
   <specViewConfigurations>
     <specification href="REQ%20TII70%20L2.reqif#_6mltmZq1Ee6CCOc-hGAbLw"/>
-    <columns label="ReqIF.Identifier" width="95"/>
-    <columns label="ReqIF.ForeignID" width="41"/>
-    <columns label="ReqIF.Name" width="174"/>
-    <columns label="ReqIF.Text" width="608"/>
-    <columns label="ReqIF.Description" width="89"/>
-    <columns label="ReqIF.LongName" width="89"/>
-    <columns label="ReqIF.Prefix" width="89"/>
-    <columns label="ReqStatus" width="89"/>
-    <columns label="ReqType" width="89"/>
-    <columns label="VerifiedBy" width="89"/>
+    <columns label="ReqIF.Identifier" width="85"/>
+    <columns label="ReqIF.Name" width="164"/>
+    <columns label="ReqIF.Text" width="598"/>
+    <columns label="ReqIF.Description" width="79"/>
+    <columns label="ReqIF.LongName" width="79"/>
+    <columns label="ReqIF.Prefix" width="79"/>
+    <columns label="ReqIF.ChapterName"/>
+    <columns label="ReqIF.ForeignID" width="31"/>
+    <columns label="ReqStatus" width="79"/>
+    <columns label="ReqType" width="79"/>
+    <columns label="VerifiedBy" width="79"/>
     <leftHeaderColumn label="Lead Header Column" width="30"/>
   </specViewConfigurations>
   <generalConfiguration>
