@@ -2,11 +2,11 @@
 <configuration:ProrToolExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0" xmlns:id="http://pror.org/presentation/id" xmlns:reqif="http://www.omg.org/spec/ReqIF/20110401/reqif.xsd">
   <specViewConfigurations>
     <specification href="REQ%20TII70%20L2.reqif#_6mltmZq1Ee6CCOc-hGAbLw"/>
-    <columns label="ReqIF.Identifier" width="85"/>
+    <columns label="ReqIF.Identifier" width="150"/>
     <columns label="ReqIF.Name" width="164"/>
     <columns label="ReqIF.Text" width="598"/>
-    <columns label="ReqIF.Description" width="79"/>
-    <columns label="ReqIF.LongName" width="79"/>
+    <columns label="ReqIF.Description" width="108"/>
+    <columns label="ReqIF.LongName" width="102"/>
     <columns label="ReqIF.Prefix" width="79"/>
     <columns label="ReqIF.ChapterName"/>
     <columns label="ReqIF.ForeignID" width="31"/>
